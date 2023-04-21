@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_beckham.mk
+    $(LOCAL_DIR)/lmodroid_beckham.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_beckham-eng \
-    lineage_beckham-user \
-    lineage_beckham-userdebug
+    lmodroid_beckham-eng \
+    lmodroid_beckham-user \
+    lmodroid_beckham-userdebug
